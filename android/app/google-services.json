@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217910396398",
+    "firebase_url": "https://weapon-store-59364.firebaseio.com",
+    "project_id": "weapon-store-59364",
+    "storage_bucket": "weapon-store-59364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217910396398:android:b59d62329888f8ac067aff",
+        "android_client_info": {
+          "package_name": "com.example.gun_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217910396398-4nvq3qlhhg4qbrmn3b2ma9ajbouksv2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4vDWampUhE97MbobTFWUdWSZezVS5ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217910396398-4nvq3qlhhg4qbrmn3b2ma9ajbouksv2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
